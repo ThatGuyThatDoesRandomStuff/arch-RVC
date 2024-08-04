@@ -12,5 +12,5 @@ ArcherV2.pth  20 EPOCHS # New training data
 ArcherV2.5.pth  60 EPOCHS # More epochs
 
 
-Archer3.pth  100 EPOCHS (Coming Soon) # New training data + More epochs
+Archer3.pth  100 EPOCHS # New training data + More epochs
 
